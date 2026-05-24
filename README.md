@@ -23,7 +23,7 @@ app. It works offline after the first visit (service-worker cached).
 
 ## Seeded user & locations
 
-On first launch the app seeds the user display name and these 2 farm
+On first launch the app seeds the user display name and these 3 farm
 locations. They are auto-favourited and can be renamed, edited, or deleted
 freely afterwards.
 
@@ -33,6 +33,7 @@ freely afterwards.
 |---|---|---|
 | Lojing | 罗京高原 | 4.7443608, 101.6416756 |
 | Kuala Krai | 瓜拉吉赖 | 5.456499, 102.33080 |
+| Gua Musang | 话望生 | 4.884279, 101.968178 |
 
 ---
 
