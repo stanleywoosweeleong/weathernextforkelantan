@@ -2,6 +2,7 @@
   "name": "Kelantan",
   "short_name": "Kelantan 天气",
   "description": "Kelantan 吉兰丹 — farm weather forecast / 个人化农友天气预报",
+  "id": "/weathernextforkelantan/",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
