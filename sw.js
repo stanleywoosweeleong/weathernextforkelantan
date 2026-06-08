@@ -45,7 +45,7 @@
 // / Dense fog in the morning / Kabus tebal waktu pagi). Elevation-aware AI
 // prompt (Lojing highland vs Kuala Krai/Gua Musang lowland) unchanged.
 
-const CACHE_VERSION = 'wnext-weathernextforkelantan-202606062210';
+const CACHE_VERSION = 'wnext-weathernextforkelantan-202606090400';
 const SHELL_CACHE = `${CACHE_VERSION}-shell`;
 const RUNTIME_CACHE = `${CACHE_VERSION}-runtime`;
 const WEATHER_CACHE = `${CACHE_VERSION}-weather`;
